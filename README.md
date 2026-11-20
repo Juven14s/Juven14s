@@ -8,7 +8,7 @@
   <a href="#ma-façon-de-travailler">Approche</a>
 </p>
 
-## Bonjour, moi c’est Rassem 👋
+## Bonjour
 
 Je développe des projets de **data science et de machine learning de bout en bout** : préparation des données, modélisation, évaluation et mise à disposition via des API et des interfaces de démonstration.
 
