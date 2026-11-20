@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="336" viewBox="0 0 1200 336" role="img" aria-labelledby="title desc">
+  <title id="title">Rassem DJIMADOUM — Data Science, Machine Learning et IA appliquée</title>
+  <desc id="desc">Bannière bleu nuit, accents menthe et lavande. Des données aux décisions.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1729"/>
+      <stop offset="1" stop-color="#172438"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7DE2D1"/>
+      <stop offset="1" stop-color="#B6A3FA"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#A8BCD3" opacity=".13"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="336" rx="18" fill="url(#background)"/>
+  <rect x="795" y="0" width="405" height="336" rx="18" fill="url(#dots)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+  <g fill="none" stroke="#5D7699" stroke-width="1.4" opacity=".45">
+    <circle cx="1040" cy="168" r="114"/>
+    <circle cx="1040" cy="168" r="76"/>
+    <path d="M907 234 957 188 1007 211 1052 133 1102 152 1156 81"/>
+    <path d="M925 93 1007 211 1124 253M957 188 1052 133 1124 253M925 93 1052 133 1156 81"/>
+  </g>
+  <path d="M907 234 957 188 1007 211 1052 133 1102 152 1156 81" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#7DE2D1" stroke="#132035" stroke-width="5">
+    <circle cx="907" cy="234" r="6"/>
+    <circle cx="957" cy="188" r="7"/>
+    <circle cx="1007" cy="211" r="7"/>
+    <circle cx="1052" cy="133" r="9"/>
+    <circle cx="1102" cy="152" r="7"/>
+    <circle cx="1156" cy="81" r="7"/>
+  </g>
+  <g fill="#B6A3FA">
+    <circle cx="925" cy="93" r="4"/>
+    <circle cx="1124" cy="253" r="4"/>
+  </g>
+  <text x="56" y="64" fill="#7DE2D1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="3">JUVEN14S / PORTFOLIO</text>
+  <text x="52" y="143" fill="#F3F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="-1.8">Rassem DJIMADOUM</text>
+  <text x="56" y="191" fill="#CAD5E7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="22">Data Science · Machine Learning · IA appliquée</text>
+  <rect x="56" y="224" width="52" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="56" y="273" fill="#9FAFC8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="20">Des données aux décisions.</text>
+</svg>
