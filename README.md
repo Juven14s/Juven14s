@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Rassem DJIMADOUM — Data Science, Machine Learning et IA appliquée. Des données aux décisions." />
+  <img src="./assets/banner.svg" width="100%" alt="Rassem DJIMADOUM : Data Science, Machine Learning et IA appliquée. Des données aux décisions." />
 </p>
 
 <p align="center">
@@ -39,9 +39,9 @@ Outils utilisés dans mes projets publics :
 
 ## Ma façon de travailler
 
-- **Évaluer avec soin** — baselines, séparation des données et validation adaptée au problème.
-- **Rendre le travail reproductible** — configurations, tests automatisés et résultats documentés.
-- **Expliquer la décision** — relier les métriques au besoin métier et préciser les hypothèses des simulations.
+- **Évaluer avec soin** : baselines, séparation des données et validation adaptée au problème.
+- **Rendre le travail reproductible** : configurations, tests automatisés et résultats documentés.
+- **Expliquer la décision** : relier les métriques au besoin métier et préciser les hypothèses des simulations.
 
 ---
 
